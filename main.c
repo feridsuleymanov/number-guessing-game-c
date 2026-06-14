@@ -1,11 +1,4 @@
-/*
- * ============================================
- *   Number Guessing Game in C
- *   Author: Your Name
- *   Description: A multi-level number guessing
- *   game with score tracking and hint system.
- * ============================================
- */
+
 
 #include <stdio.h>
 #include <stdlib.h>
